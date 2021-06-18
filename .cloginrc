@@ -1,0 +1,3 @@
+add user * paul
+add password * cisco12345 cisco1234
+add method * ssh

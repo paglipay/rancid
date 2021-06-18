@@ -1,0 +1,63 @@
+
+
+/var/rancid/bash does not exist.
+Run bin/rancid-cvs bash to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/bash does not exist.
+Run bin/rancid-cvs bash to make all of the needed directories.
+
+
+/var/rancid/ifconfig does not exist.
+Run bin/rancid-cvs ifconfig to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco does not exist.
+Run bin/rancid-cvs cisco to make all of the needed directories.
+
+
+/var/rancid/cisco/router.db does not exist.
+
+
+Routers changed to up:
+        192.168.2.227;cisco
+
+Added routers:
+        192.168.2.227;cisco
+
